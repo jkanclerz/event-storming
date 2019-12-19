@@ -1,3 +1,3 @@
-# event-storming
+# event storming
 
-![Drag Racing](event-storming.svg)
+!Event storming](event-storming.svg)
